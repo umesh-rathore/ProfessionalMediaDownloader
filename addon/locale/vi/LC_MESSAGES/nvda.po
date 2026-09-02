@@ -1,0 +1,197 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the professionalMediaDownloader package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: professionalMediaDownloader 26.08.01\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2026-08-31 14:12+0000\n"
+"PO-Revision-Date: 2026-09-01 13:59+0700\n"
+"Last-Translator: nguyenninhhoang <nguyenninhhoang2005@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:26
+msgid "Phase: Initializing"
+msgstr "Giai đoạn: Đang Khởi tạo"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:27
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:189
+msgid "Starting..."
+msgstr "Đang bắt đầu..."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:28
+msgid "0 percent"
+msgstr "0 phần trăm"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:33
+msgid "&Cancel"
+msgstr "&Hủy bỏ"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:50
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:51
+msgid "{} percent"
+msgstr "{} phần trăm"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:53
+msgid "Processing..."
+msgstr "Đang sử lí..."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:71
+msgid "Cancelling..."
+msgstr "Đang hủy bỏ..."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:71
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:247
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:73
+msgid ""
+"Are you sure you want to cancel?\n"
+"All temp files will be deleted."
+msgstr ""
+"Bạn có chắc chắn muốn hủy bỏ không?\n"
+"Tất cả các file tạm sẽ bị xóa."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:73
+msgid "Confirm Cancel"
+msgstr "Xác nhận hủy bỏ"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:101
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:144
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:314
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:331
+#: buildVars.py:6
+msgid "Professional Media Downloader"
+msgstr "Professional Media Downloader"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:110
+msgid "&Enter URL:"
+msgstr "&Nhập URL:"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:113
+msgid "&Paste"
+msgstr "&Dán"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:114
+msgid "Format:"
+msgstr "Định dạng:"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:118
+msgid "&Download"
+msgstr "&Tải xuống"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:119
+msgid "&Open Folder"
+msgstr "&Mở thư mục"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:120
+msgid "&Close"
+msgstr "&Đóng"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:142
+msgid "Please enter URL"
+msgstr "Vui lòng nhập URL"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:142
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:311
+msgid "Error"
+msgstr "Lỗi"
+
+#. Pehle downloading 0% dikhao
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:189
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:220
+msgid "Phase: Downloading"
+msgstr "Giai đoạn: Đang tải xuống"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:189
+msgid "Downloading: 0%"
+msgstr "Đang tải xuống: 0%"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:220
+msgid "Downloading: {}%"
+msgstr "Đang tải xuống: {}%"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:229
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:240
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:247
+msgid "Phase: Converting"
+msgstr "Giai đoạn: Đang Chuyển đổi"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:229
+msgid "Converting: 0%"
+msgstr "Đang chuyển đổi: 0%"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:229
+msgid "Starting conversion..."
+msgstr "Đang bắt đầu chuyển đổi..."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:240
+msgid "Converting: {}%"
+msgstr "Đang chuyển đổi: {}%"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:240
+msgid "Time {} / {} sec"
+msgstr "Thời gian {} / {} giây"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:247
+msgid "Converting... Time {:02d}:{:02d}:{:02d}"
+msgstr "Đang chuyển đổi... thời gian {:02d}:{:02d}:{:02d}"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:301
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:303
+msgid "Cancelled"
+msgstr "Đã hủy bỏ"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:303
+msgid "Cancelled - All temp files deleted."
+msgstr "Đã hủy bỏ - Tất cả các file tạm đã bị xóa."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:306
+msgid "Download complete"
+msgstr "Tải xuống thành công"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:308
+msgid "Download and conversion completed!"
+msgstr "Đã tải xuống và chuyển đổi thành công!"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:308
+msgid "Success"
+msgstr "Thành công"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:311
+msgid "Download failed. Check URL or internet."
+msgstr "Tải xuống thất bại. Vui lòng kiểm tra URL hoặc kết nối internet."
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:329
+msgid "&Open Downloader"
+msgstr "& mở Mở trình tải xuống"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:330
+msgid "Open &Downloads Folder"
+msgstr "Mở &Thư mục tải xuống"
+
+#: addon/globalPlugins/professionalMediaDownloader/__init__.py:342
+msgid "Open Downloader"
+msgstr "Mở trình tải xuống"
+
+#: buildVars.py:7
+msgid ""
+"A professional tool to download high-quality audio and video from over 1000 "
+"websites with auto-clipboard fetch and multi-language support."
+msgstr ""
+"Một công cụ chuyên nghiệp để tải xuống âm thanh và video chất lượng cao từ "
+"hơn 1000 trang web với tính năng tự động lấy từ bộ nhớ và hỗ trợ đa ngôn "
+"ngữ."
+
+#: buildVars.py:8
+msgid "look at changelog.md"
+msgstr "hãy xem file changelog.md"
